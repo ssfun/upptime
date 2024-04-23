@@ -1,31 +1,91 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: ssfun # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
+  - name: SFUN BLOG
+    url: https://sfun.cc
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+  - name: STATUS PAGE
+    url: https://status.sfun.cc
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+  - name: PLEX SYNC
+    url: $PLEXSYNC_SITE
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+  - name: Raycast Backend
+    url: $RAYCAST_SITE
+    expectedStatusCodes:
+      - 401
+    maxResponseTime: 5000
+  - name: GPT ONE API
+    url: $ONEAPI_SITE
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+  - name: GPT-3.5 API 01
+    url: $GPT_RENDER
+    expectedStatusCodes:
+      - 404
+      - 403
+    maxResponseTime: 5000
+  - name: GPT-3.5 API 02
+    url: $GPT_KOYEB
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+  - name: SG CDN 01
+    url: $SG_01
     port: 80
     check: "tcp-ping"
-    ipv6: true
+  - name: SG CDN 02
+    url: $SG_02
+    port: 80
+    check: "tcp-ping"
+  - name: JP CDN 01
+    url: $JP_01
+    port: 80
+    check: "tcp-ping"
+  - name: KR CDN 01
+    url: $KR_01
+    port: 80
+    check: "tcp-ping"
+  - name: US CDN 01
+    url: $US_01
+    port: 80
+    check: "tcp-ping"
+  - name: US CDN 02
+    url: $US_02
+    port: 80
+    check: "tcp-ping"
+  - name: AE CDN 01
+    url: $AE_01
+    port: 80
+    check: "tcp-ping"
+  - name: HK CDN 01
+    url: $HK_01
+    port: 80
+    check: "tcp-ping"
+  - name: HK CDN 02
+    url: $HK_02
+    port: 80
+    check: "tcp-ping"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: uptime.sfun.cc
+  # baseUrl: /upptime
+  logoUrl: https://raw.githubusercontent.com/ssfun/upptime/master/assets/upptime-icon.svg
+  faviconSvg: https://raw.githubusercontent.com/ssfun/upptime/master/assets/upptime-icon.svg
+  name: Uptime
+  introTitle: "**SFUN's UPTIME SERVICE**"
+  introMessage: This is an uptime monitor and status page for sfun's systems.
   navbar:
     - title: Status
       href: /
