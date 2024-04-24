@@ -94,19 +94,19 @@
     "url": "$GPT_RENDER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gpt-3-5-api-01",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 456,
-    "timeDay": 456,
-    "timeWeek": 456,
-    "timeMonth": 456,
-    "timeYear": 456,
+    "status": "up",
+    "uptime": "99.52%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.52%",
+    "time": 425,
+    "timeDay": 425,
+    "timeWeek": 425,
+    "timeMonth": 425,
+    "timeYear": 425,
     "dailyMinutesDown": {
-      "2024-04-24": 1
+      "2024-04-24": 7
     }
   },
   {
@@ -234,7 +234,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-24": 1368,
+      "2024-04-24": 1375,
       "2024-04-23": 2
     }
   },
@@ -280,11 +280,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hk-cdn-02",
     "status": "up",
-    "uptime": "98.08%",
-    "uptimeDay": "98.08%",
-    "uptimeWeek": "98.08%",
-    "uptimeMonth": "98.08%",
-    "uptimeYear": "98.08%",
+    "uptime": "98.09%",
+    "uptimeDay": "98.09%",
+    "uptimeWeek": "98.09%",
+    "uptimeMonth": "98.09%",
+    "uptimeYear": "98.09%",
     "time": 189,
     "timeDay": 189,
     "timeWeek": 189,
