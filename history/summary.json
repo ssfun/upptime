@@ -232,7 +232,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-24": 459,
+      "2024-04-24": 467,
       "2024-04-23": 2
     }
   },
@@ -277,12 +277,12 @@
     "url": "$HK_02",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hk-cdn-02",
-    "status": "up",
-    "uptime": "94.28%",
-    "uptimeDay": "94.28%",
-    "uptimeWeek": "94.28%",
-    "uptimeMonth": "94.28%",
-    "uptimeYear": "94.28%",
+    "status": "down",
+    "uptime": "94.34%",
+    "uptimeDay": "94.34%",
+    "uptimeWeek": "94.34%",
+    "uptimeMonth": "94.34%",
+    "uptimeYear": "94.34%",
     "time": 183,
     "timeDay": 183,
     "timeWeek": 183,
