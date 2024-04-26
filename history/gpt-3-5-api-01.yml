@@ -1,7 +1,7 @@
 url: $GPT_RENDER
-status: up
-code: 403
-responseTime: 588
-lastUpdated: 2024-04-25T23:12:45.785Z
+status: down
+code: 200
+responseTime: 165
+lastUpdated: 2024-04-26T02:01:22.272Z
 startTime: 2024-04-23T23:57:56.987Z
 generator: Upptime <https://github.com/upptime/upptime>
