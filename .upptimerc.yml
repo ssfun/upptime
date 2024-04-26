@@ -31,7 +31,7 @@ sites:
   - name: GPT-3.5 API 01
     url: $GPT_RENDER
     expectedStatusCodes:
-      - 404
+      - 200
       - 403
     maxResponseTime: 5000
   - name: GPT-3.5 API 02
