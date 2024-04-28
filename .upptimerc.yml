@@ -87,10 +87,12 @@ status-website:
   introTitle: "**SFUN's UPTIME SERVICE**"
   introMessage: This is an uptime monitor and status page for sfun's systems.
   navbar:
-    - title: Status
+    - title: Uptime
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Status
+      href: https://status.sfun.cc
+    - title: Blog
+      href: https://sfun.cc
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
