@@ -83,7 +83,7 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/ssfun/upptime/master/assets/upptime-icon.svg
   faviconSvg: https://raw.githubusercontent.com/ssfun/upptime/master/assets/upptime-icon.svg
-  name: Uptime
+  name: SFUN
   introTitle: "**SFUN's UPTIME SERVICE**"
   introMessage: This is an uptime monitor and status page for sfun's systems.
   navbar:
