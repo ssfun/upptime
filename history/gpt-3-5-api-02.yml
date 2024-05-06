@@ -1,7 +1,7 @@
 url: $GPT_KOYEB
-status: degraded
-code: 502
-responseTime: 10226
-lastUpdated: 2024-05-06T10:31:06.058Z
+status: up
+code: 200
+responseTime: 168
+lastUpdated: 2024-05-06T10:38:51.654Z
 startTime: 2024-04-23T23:57:57.764Z
 generator: Upptime <https://github.com/upptime/upptime>
