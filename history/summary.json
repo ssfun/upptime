@@ -78,19 +78,19 @@
     "url": "$ONEAPI_SITE_01",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "one-api-site-01",
-    "status": "down",
-    "uptime": "43.86%",
-    "uptimeDay": "43.86%",
-    "uptimeWeek": "43.86%",
-    "uptimeMonth": "43.86%",
-    "uptimeYear": "43.86%",
-    "time": 707,
-    "timeDay": 707,
-    "timeWeek": 707,
-    "timeMonth": 707,
-    "timeYear": 707,
+    "status": "up",
+    "uptime": "43.05%",
+    "uptimeDay": "43.05%",
+    "uptimeWeek": "43.05%",
+    "uptimeMonth": "43.05%",
+    "uptimeYear": "43.05%",
+    "time": 733,
+    "timeDay": 733,
+    "timeWeek": 733,
+    "timeMonth": 733,
+    "timeYear": 733,
     "dailyMinutesDown": {
-      "2024-05-22": 134
+      "2024-05-22": 140
     }
   },
   {
@@ -99,18 +99,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "one-api-site-02",
     "status": "down",
-    "uptime": "53.85%",
-    "uptimeDay": "53.85%",
-    "uptimeWeek": "53.85%",
-    "uptimeMonth": "53.85%",
-    "uptimeYear": "53.85%",
+    "uptime": "52.11%",
+    "uptimeDay": "52.11%",
+    "uptimeWeek": "52.11%",
+    "uptimeMonth": "52.11%",
+    "uptimeYear": "52.11%",
     "time": 246,
     "timeDay": 246,
     "timeWeek": 246,
     "timeMonth": 246,
     "timeYear": 246,
     "dailyMinutesDown": {
-      "2024-05-22": 108
+      "2024-05-22": 116
     }
   },
   {
@@ -202,7 +202,7 @@
     "timeMonth": 163,
     "timeYear": 163,
     "dailyMinutesDown": {
-      "2024-05-22": 236
+      "2024-05-22": 244
     }
   },
   {
@@ -222,7 +222,7 @@
     "timeMonth": 368,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2024-05-22": 236
+      "2024-05-22": 244
     }
   },
   {
@@ -287,18 +287,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gpt-3-5-api-02",
     "status": "down",
-    "uptime": "95.13%",
+    "uptime": "95.11%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "80.04%",
-    "uptimeMonth": "95.13%",
-    "uptimeYear": "95.13%",
+    "uptimeWeek": "79.96%",
+    "uptimeMonth": "95.11%",
+    "uptimeYear": "95.11%",
     "time": 724,
     "timeDay": 146,
     "timeWeek": 1015,
     "timeMonth": 724,
     "timeYear": 724,
     "dailyMinutesDown": {
-      "2024-05-22": 1001,
+      "2024-05-22": 1009,
       "2024-05-21": 950,
       "2024-05-17": 61
     }
@@ -410,7 +410,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-22": 1001,
+      "2024-05-22": 1009,
       "2024-05-21": 1440,
       "2024-05-20": 1440,
       "2024-05-19": 1440,
