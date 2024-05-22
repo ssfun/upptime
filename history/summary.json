@@ -78,18 +78,20 @@
     "url": "$ONEAPI_SITE_01",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "one-api-site-01",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "92.05%",
+    "uptimeDay": "92.05%",
+    "uptimeWeek": "92.05%",
+    "uptimeMonth": "92.05%",
+    "uptimeYear": "92.05%",
     "time": 718,
     "timeDay": 718,
     "timeWeek": 718,
     "timeMonth": 718,
     "timeYear": 718,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-22": 2
+    }
   },
   {
     "name": "ONE API SITE 02",
@@ -97,18 +99,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "one-api-site-02",
     "status": "down",
-    "uptime": "77.69%",
-    "uptimeDay": "77.69%",
-    "uptimeWeek": "77.69%",
-    "uptimeMonth": "77.69%",
-    "uptimeYear": "77.69%",
+    "uptime": "26.75%",
+    "uptimeDay": "26.75%",
+    "uptimeWeek": "26.75%",
+    "uptimeMonth": "26.75%",
+    "uptimeYear": "26.75%",
     "time": 171,
     "timeDay": 171,
     "timeWeek": 171,
     "timeMonth": 171,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2024-05-22": 1
+      "2024-05-22": 14
     }
   },
   {
@@ -189,18 +191,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gptchat-2-api-hf-01",
     "status": "down",
-    "uptime": "0.16%",
-    "uptimeDay": "0.16%",
-    "uptimeWeek": "0.16%",
-    "uptimeMonth": "0.16%",
-    "uptimeYear": "0.16%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 163,
     "timeDay": 163,
     "timeWeek": 163,
     "timeMonth": 163,
     "timeYear": 163,
     "dailyMinutesDown": {
-      "2024-05-22": 7
+      "2024-05-22": 19
     }
   },
   {
@@ -209,18 +211,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gptchat-2-api-hf-02",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 368,
     "timeDay": 368,
     "timeWeek": 368,
     "timeMonth": 368,
     "timeYear": 368,
     "dailyMinutesDown": {
-      "2024-05-22": 7
+      "2024-05-22": 19
     }
   },
   {
@@ -285,18 +287,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "gpt-3-5-api-02",
     "status": "down",
-    "uptime": "95.66%",
+    "uptime": "95.63%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "82.32%",
-    "uptimeMonth": "95.66%",
-    "uptimeYear": "95.66%",
+    "uptimeWeek": "82.19%",
+    "uptimeMonth": "95.63%",
+    "uptimeYear": "95.63%",
     "time": 724,
     "timeDay": 146,
     "timeWeek": 1015,
     "timeMonth": 724,
     "timeYear": 724,
     "dailyMinutesDown": {
-      "2024-05-22": 771,
+      "2024-05-22": 784,
       "2024-05-21": 950,
       "2024-05-17": 61
     }
@@ -408,7 +410,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-22": 771,
+      "2024-05-22": 784,
       "2024-05-21": 1440,
       "2024-05-20": 1440,
       "2024-05-19": 1440,
