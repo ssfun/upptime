@@ -23,8 +23,51 @@ sites:
     expectedStatusCodes:
       - 401
     maxResponseTime: 5000
-  - name: GPT ONE API
-    url: $ONEAPI_SITE
+  - name: ONE API SITE 01
+    url: $ONEAPI_SITE_01
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+  - name: ONE API SITE 02
+    url: $ONEAPI_SITE_02
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+  - name: HuggingChat API 01
+    url: $HF_CHAT_01
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+  - name: HuggingChat API 02
+    url: $HF_CHAT_02
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+  - name: HuggingFace API 01
+    url: $HF_SPACE_01
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+  - name: HuggingFace API 02
+    url: $HF_SPACE_02
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+  - name: GPTCHAT2API HF 01
+    url: $HF_CHAT2API_01
+    __dangerous__body_down_if_text_missing: '"message":"Hello, world!"'
+    maxResponseTime: 5000
+  - name: GPTCHAT2API HF 02
+    url: $HF_CHAT2API_02
+    __dangerous__body_down_if_text_missing: '"message":"Hello, world!"'
+    maxResponseTime: 5000
+  - name: GPTDUCK2API HF 01
+    url: $HF_DUCK2API_01
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+  - name: GPTDUCK2API HF 02
+    url: $HF_DUCK2API_02
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
