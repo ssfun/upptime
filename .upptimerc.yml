@@ -56,10 +56,14 @@ sites:
   - name: GPTCHAT2API HF 01
     url: $HF_CHAT2API_01
     __dangerous__body_down_if_text_missing: '"message":"Hello, world!"'
+    expectedStatusCodes:
+      - 404
     maxResponseTime: 5000
   - name: GPTCHAT2API HF 02
     url: $HF_CHAT2API_02
     __dangerous__body_down_if_text_missing: '"message":"Hello, world!"'
+    expectedStatusCodes:
+      - 404
     maxResponseTime: 5000
   - name: GPTDUCK2API HF 01
     url: $HF_DUCK2API_01
