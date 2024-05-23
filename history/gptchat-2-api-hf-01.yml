@@ -1,7 +1,7 @@
 url: $HF_CHAT2API_01
-status: down
+status: up
 code: 404
-responseTime: 140
-lastUpdated: 2024-05-23T00:23:37.282Z
+responseTime: 67
+lastUpdated: 2024-05-23T00:58:05.133Z
 startTime: 2024-05-22T12:44:28.700Z
 generator: Upptime <https://github.com/upptime/upptime>
