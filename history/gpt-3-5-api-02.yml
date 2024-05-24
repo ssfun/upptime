@@ -1,7 +1,7 @@
 url: $GPT_KOYEB
-status: down
+status: degraded
 code: 404
-responseTime: 171
-lastUpdated: 2024-05-23T23:13:52.370Z
+responseTime: 5130
+lastUpdated: 2024-05-24T07:25:30.607Z
 startTime: 2024-04-23T23:57:57.764Z
 generator: Upptime <https://github.com/upptime/upptime>
