@@ -13,6 +13,11 @@ sites:
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
+  - name: UPTIME KUMA
+    url: $UPTIME_KUMA_SITE
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
   - name: PLEX SYNC
     url: $PLEXSYNC_SITE
     expectedStatusCodes:
@@ -23,105 +28,93 @@ sites:
     expectedStatusCodes:
       - 401
     maxResponseTime: 5000
-  - name: ONE API SITE 01
-    url: $ONEAPI_SITE_01
+  - name: ONEAPI SITE
+    url: $ONEAPI_SITE
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
-  - name: ONE API SITE 02
-    url: $ONEAPI_SITE_02
+  - name: HF.SFUN ONEAPI SITE 
+    url: $HF_SFUN_ONEAPI_SITE
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
-  - name: HuggingChat API 01
-    url: $HF_CHAT_01
+  - name: HF.SMGC ONEAPI SITE 
+    url: $HF_SMGC_ONEAPI_SITE
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
-  - name: HuggingChat API 02
-    url: $HF_CHAT_02
+  - name: HF.SFUN HFCHAT2API
+    url: $HF_SFUN_HFCHAT2API
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
-  - name: HuggingFace API 01
-    url: $HF_SPACE_01
+  - name: HF.SMGC HFCHAT2API
+    url: $HF_SMGC_HFCHAT2API
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
-  - name: HuggingFace API 02
-    url: $HF_SPACE_02
+  - name: HF.SFUN HFLLM2API
+    url: $HF_SFUN_HFLLM2API
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
-  - name: GPTCHAT2API HF 01
-    url: $HF_CHAT2API_01
+  - name: HF.SMGC HFLLM2API
+    url: $HF_SMGC_HFLLM2API
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+  - name: HF.SFUN CHAT2API
+    url: $HF_SFUN_CHAT2API
     __dangerous__body_down_if_text_missing: 'Gateway is disabled'
     expectedStatusCodes:
       - 404
     maxResponseTime: 5000
-  - name: GPTCHAT2API HF 02
-    url: $HF_CHAT2API_02
+  - name: HF.SMGC CHAT2API
+    url: $HF_SMGC_CHAT2API
     __dangerous__body_down_if_text_missing: 'Gateway is disabled'
     expectedStatusCodes:
       - 404
     maxResponseTime: 5000
-  - name: GPTDUCK2API HF 01
-    url: $HF_DUCK2API_01
+  - name: HF.SFUN DUCK2API
+    url: $HF_SFUN_DUCK2API
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
-  - name: GPTDUCK2API HF 02
-    url: $HF_DUCK2API_02
+  - name: HF.SMGC DUCK2API
+    url: $HF_SMGC_DUCK2API
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
-  - name: GPT-3.5 API 01
-    url: $GPT_RENDER
-    expectedStatusCodes:
-      - 200
-      - 403
-    maxResponseTime: 5000
-  - name: GPT-3.5 API 02
-    url: $GPT_KOYEB
+  - name: RENDER DUCK2API
+    url: $RENDER_DUCK2API
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
-  - name: SG CDN 01
-    url: $SG_01
-    port: 80
-    check: "tcp-ping"
-  - name: SG CDN 02
-    url: $SG_02
-    port: 80
-    check: "tcp-ping"
-  - name: JP CDN 01
-    url: $JP_01
-    port: 80
-    check: "tcp-ping"
-  - name: KR CDN 01
-    url: $KR_01
-    port: 80
-    check: "tcp-ping"
-  - name: US CDN 01
-    url: $US_01
-    port: 80
-    check: "tcp-ping"
-  - name: US CDN 02
-    url: $US_02
-    port: 80
-    check: "tcp-ping"
-  - name: AE CDN 01
-    url: $AE_01
-    port: 80
-    check: "tcp-ping"
-  - name: HK CDN 01
-    url: $HK_01
-    port: 80
-    check: "tcp-ping"
-  - name: HK CDN 02
-    url: $HK_02
-    port: 80
-    check: "tcp-ping"
+  - name: KOYEB DUCK2API
+    url: $KOYEB_DUCK2API
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+  - name: HF.SFUN COZE2API
+    url: $HF_SFUN_COZE2API
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+  - name: HF.SMGC COZE2API
+    url: $HF_SMGC_COZE2API
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+  - name: HF.SFUN DEEPSEEK2API
+    url: $HF_SFUN_DEEPSEEK2API
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+  - name: HF.SMGC DEEPSEEK2API
+    url: $HF_SMGC_DEEPSEEK2API
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
