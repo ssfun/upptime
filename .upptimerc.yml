@@ -28,6 +28,11 @@ sites:
     expectedStatusCodes:
       - 401
     maxResponseTime: 5000
+  - name: WEWE RSS
+    url: $WEWE_RSS_SITE
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
   - name: ONEAPI SITE
     url: $ONEAPI_SITE
     expectedStatusCodes:
