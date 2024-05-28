@@ -26,7 +26,7 @@ sites:
   - name: Raycast Backend
     url: $RAYCAST_SITE
     expectedStatusCodes:
-      - 401
+      - 200
     maxResponseTime: 5000
   - name: WEWE RSS
     url: $WEWE_RSS_SITE
