@@ -183,19 +183,19 @@
     "url": "$HF_SFUN_HFCHAT2API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hf-sfun-hfchat-2-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2066,
-    "timeDay": 3798,
-    "timeWeek": 2066,
-    "timeMonth": 2066,
-    "timeYear": 2066,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 1946,
+    "timeDay": 2943,
+    "timeWeek": 1946,
+    "timeMonth": 1946,
+    "timeYear": 1946,
     "dailyMinutesDown": {
-      "2024-05-31": 0
+      "2024-05-31": 7
     }
   },
   {
