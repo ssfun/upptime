@@ -1,7 +1,7 @@
 url: $HF_SMGC_HFCHAT2API
-status: down
-code: 500
-responseTime: 187
-lastUpdated: 2024-06-02T22:14:27.795Z
+status: up
+code: 200
+responseTime: 307
+lastUpdated: 2024-06-02T22:28:21.359Z
 startTime: 2024-05-25T15:02:11.392Z
 generator: Upptime <https://github.com/upptime/upptime>
