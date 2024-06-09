@@ -1,7 +1,7 @@
 url: $HF_SMGC_ONEAPI_SITE
-status: down
-code: 502
-responseTime: 3083
-lastUpdated: 2024-06-08T23:56:13.085Z
+status: up
+code: 200
+responseTime: 299
+lastUpdated: 2024-06-09T00:46:33.246Z
 startTime: 2024-05-25T15:02:02.436Z
 generator: Upptime <https://github.com/upptime/upptime>
