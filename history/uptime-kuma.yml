@@ -1,7 +1,7 @@
 url: $UPTIME_KUMA_SITE
-status: degraded
+status: up
 code: 200
-responseTime: 21223
-lastUpdated: 2024-06-12T04:48:37.223Z
+responseTime: 560
+lastUpdated: 2024-06-12T04:55:26.338Z
 startTime: 2024-05-25T15:01:59.563Z
 generator: Upptime <https://github.com/upptime/upptime>
