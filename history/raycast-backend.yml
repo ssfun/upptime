@@ -1,7 +1,7 @@
 url: $RAYCAST_SITE
-status: up
-code: 200
-responseTime: 153
-lastUpdated: 2024-06-13T23:13:47.102Z
+status: down
+code: 404
+responseTime: 47
+lastUpdated: 2024-06-14T12:11:08.290Z
 startTime: 2024-04-23T23:57:55.660Z
 generator: Upptime <https://github.com/upptime/upptime>
