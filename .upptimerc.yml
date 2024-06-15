@@ -13,18 +13,18 @@ sites:
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
-  - name: UPTIME KUMA
-    url: $UPTIME_KUMA_SITE
-    expectedStatusCodes:
-      - 200
-    maxResponseTime: 5000
   - name: PLEX SYNC
     url: $PLEXSYNC_SITE
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
-  - name: Raycast Backend
-    url: $RAYCAST_SITE
+  - name: HF.SFUN RAYCAST
+    url: $HF_SFUN_RAYCAST
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+  - name: HF.SMGC RAYCAST
+    url: $HF_SMGC_RAYCAST
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
