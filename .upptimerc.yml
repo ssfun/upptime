@@ -33,6 +33,11 @@ sites:
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
+  - name: ARKOSE SOLVER
+    url: $RENDER_ARKOSE
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
   - name: ONEAPI SITE
     url: $ONEAPI_SITE
     expectedStatusCodes:
