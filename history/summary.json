@@ -126,19 +126,19 @@
     "url": "$RENDER_ARKOSE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "arkose-solver",
-    "status": "down",
-    "uptime": "99.20%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.20%",
-    "uptimeMonth": "99.20%",
-    "uptimeYear": "99.20%",
-    "time": 376,
-    "timeDay": 376,
-    "timeWeek": 376,
-    "timeMonth": 376,
-    "timeYear": 376,
+    "status": "up",
+    "uptime": "90.20%",
+    "uptimeDay": "90.20%",
+    "uptimeWeek": "90.20%",
+    "uptimeMonth": "90.20%",
+    "uptimeYear": "90.20%",
+    "time": 319,
+    "timeDay": 319,
+    "timeWeek": 319,
+    "timeMonth": 319,
+    "timeYear": 319,
     "dailyMinutesDown": {
-      "2024-06-25": 1
+      "2024-06-25": 9
     }
   },
   {
