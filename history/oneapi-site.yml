@@ -1,7 +1,7 @@
 url: $ONEAPI_SITE
-status: down
-code: 404
-responseTime: 119
-lastUpdated: 2024-06-28T23:14:45.925Z
+status: up
+code: 200
+responseTime: 236
+lastUpdated: 2024-06-29T06:33:58.807Z
 startTime: 2024-05-25T15:02:01.322Z
 generator: Upptime <https://github.com/upptime/upptime>
