@@ -105,16 +105,6 @@ sites:
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
-  - name: HF.SFUN COZE2API
-    url: $HF_SFUN_COZE2API
-    expectedStatusCodes:
-      - 200
-    maxResponseTime: 5000
-  - name: HF.SMGC COZE2API
-    url: $HF_SMGC_COZE2API
-    expectedStatusCodes:
-      - 200
-    maxResponseTime: 5000
   - name: HF.SFUN DEEPSEEK2API
     url: $HF_SFUN_DEEPSEEK2API
     expectedStatusCodes:
