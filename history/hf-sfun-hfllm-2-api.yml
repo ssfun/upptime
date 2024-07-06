@@ -1,7 +1,7 @@
 url: $HF_SFUN_HFLLM2API
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-07-06T08:15:20.778Z
+status: up
+code: 200
+responseTime: 146
+lastUpdated: 2024-07-06T08:30:11.112Z
 startTime: 2024-05-25T15:02:12.222Z
 generator: Upptime <https://github.com/upptime/upptime>
