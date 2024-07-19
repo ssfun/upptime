@@ -1,7 +1,7 @@
 url: $HF_SFUN_ONEAPI_SITE
-status: degraded
+status: up
 code: 200
-responseTime: 27202
-lastUpdated: 2024-07-19T03:33:22.608Z
+responseTime: 195
+lastUpdated: 2024-07-19T03:48:34.667Z
 startTime: 2024-05-25T15:02:02.033Z
 generator: Upptime <https://github.com/upptime/upptime>
