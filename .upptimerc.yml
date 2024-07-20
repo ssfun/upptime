@@ -18,6 +18,11 @@ sites:
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
+  - name: EMBY KEEPER
+    url: $EMBYKEEPER
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
   - name: HF.SFUN RAYCAST
     url: $HF_SFUN_RAYCAST
     expectedStatusCodes:
