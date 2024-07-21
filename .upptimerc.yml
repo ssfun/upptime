@@ -25,11 +25,15 @@ sites:
     maxResponseTime: 5000
   - name: HF.SFUN RAYCAST
     url: $HF_SFUN_RAYCAST
+    headers:
+      - "Authorization: Bearer $RAYCAST_TOKEN"
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
   - name: HF.SMGC RAYCAST
     url: $HF_SMGC_RAYCAST
+    headers:
+      - "Authorization: Bearer $RAYCAST_TOKEN"
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
@@ -89,6 +93,11 @@ sites:
     __dangerous__body_down_if_text_missing: 'Gateway is disabled'
     expectedStatusCodes:
       - 404
+    maxResponseTime: 5000
+  - name: HF.SFUN CLAUDE2API
+    url: $HF_SFUN_CLAUDE2API
+    expectedStatusCodes:
+      - 200
     maxResponseTime: 5000
   - name: HF.SFUN DUCK2API
     url: $HF_SFUN_DUCK2API
