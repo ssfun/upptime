@@ -1,7 +1,7 @@
 url: $HF_SMGC_RAYCAST
 status: down
-code: 503
-responseTime: 129
-lastUpdated: 2024-07-21T11:59:31.707Z
+code: 403
+responseTime: 567
+lastUpdated: 2024-07-21T15:15:40.593Z
 startTime: 2024-06-15T03:23:19.542Z
 generator: Upptime <https://github.com/upptime/upptime>
