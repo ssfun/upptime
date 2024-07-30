@@ -1,7 +1,7 @@
 url: $PLEXSYNC_SITE
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-07-30T10:31:41.935Z
+status: up
+code: 200
+responseTime: 130
+lastUpdated: 2024-07-30T10:40:39.382Z
 startTime: 2024-04-23T23:57:55.055Z
 generator: Upptime <https://github.com/upptime/upptime>
