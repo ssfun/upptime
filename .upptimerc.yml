@@ -37,6 +37,13 @@ sites:
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
+  - name: OPEN WEBUI
+    url: $OPEN_WEBUI
+    headers:
+      - "Authorization: Bearer $ALIST_TOKEN"
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
   - name: ALIST SERVER
     url: $ALIST_SITE
     headers:
