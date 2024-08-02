@@ -18,11 +18,6 @@ sites:
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
-  - name: EMBY KEEPER
-    url: $EMBYKEEPER
-    expectedStatusCodes:
-      - 200
-    maxResponseTime: 5000
   - name: HF.SFUN RAYCAST
     url: $HF_SFUN_RAYCAST
     headers:
@@ -46,6 +41,13 @@ sites:
     maxResponseTime: 5000
   - name: ALIST SERVER
     url: $ALIST_SITE
+    headers:
+      - "Authorization: Bearer $ALIST_TOKEN"
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+  - name: EMBY KEEPER
+    url: $EMBYKEEPER
     headers:
       - "Authorization: Bearer $ALIST_TOKEN"
     expectedStatusCodes:
