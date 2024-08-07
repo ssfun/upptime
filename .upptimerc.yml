@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: SFUN BLOG
-    url: https://sfun.cc
+    url: https://blog.sfun.cc
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
@@ -88,16 +88,6 @@ sites:
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
-  - name: HF.SFUN HFLLM2API
-    url: $HF_SFUN_HFLLM2API
-    expectedStatusCodes:
-      - 200
-    maxResponseTime: 5000
-  - name: HF.SMGC HFLLM2API
-    url: $HF_SMGC_HFLLM2API
-    expectedStatusCodes:
-      - 200
-    maxResponseTime: 5000
   - name: HF.SFUN CHAT2API
     url: $HF_SFUN_CHAT2API
     __dangerous__body_down_if_text_missing: 'Gateway is disabled'
@@ -135,16 +125,6 @@ sites:
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
-  - name: HF.SFUN DEEPSEEK2API
-    url: $HF_SFUN_DEEPSEEK2API
-    expectedStatusCodes:
-      - 200
-    maxResponseTime: 5000
-  - name: HF.SMGC DEEPSEEK2API
-    url: $HF_SMGC_DEEPSEEK2API
-    expectedStatusCodes:
-      - 200
-    maxResponseTime: 5000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -162,7 +142,7 @@ status-website:
     - title: Status
       href: https://status.sfun.cc
     - title: Blog
-      href: https://sfun.cc
+      href: https://blog.sfun.cc
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
