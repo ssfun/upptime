@@ -4,17 +4,81 @@ repo: upptime # The name of this repository
 
 sites:
   - name: SFUN BLOG
-    url: https://blog.sfun.cc
+    url: $BLOG
+    headers:
+      - "Authorization: Bearer $HF_TOKEN"
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
   - name: STATUS PAGE
-    url: https://status.sfun.cc
+    url: $STATUS
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+  - name: GLANCE PAGE
+    url: $GLANCE
+    headers:
+      - "Authorization: Bearer $HF_TOKEN"
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+  - name: ALIST
+    url: $ALIST
+    headers:
+      - "Authorization: Bearer $HF_TOKEN"
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+  - name: ONE HUB
+    url: $ONEHUB
+    headers:
+      - "Authorization: Bearer $HF_TOKEN"
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+  - name: LOBECHAT
+    url: $LOBECHAT
+    headers:
+      - "Authorization: Bearer $HF_TOKEN"
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+  - name: OPEN WEBUI
+    url: $OPEN_WEBUI
+    headers:
+      - "Authorization: Bearer $HF_TOKEN"
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000  
+  - name: EMBY KEEPER
+    url: $EMBYKEEPER
+    headers:
+      - "Authorization: Bearer $HF_TOKEN"
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
   - name: PLEX SYNC
     url: $PLEXSYNC_SITE
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+  - name: WEWE RSS
+    url: $WEWE_RSS_SITE
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+  - name: ONE API 
+    url: $ONEAPI
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+  - name: NEW API
+    url: $NEWAPI
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+  - name: ARKOSE SOLVER
+    url: $RENDER_ARKOSE
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
@@ -32,49 +96,23 @@ sites:
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
-  - name: OPEN WEBUI
-    url: $OPEN_WEBUI
-    headers:
-      - "Authorization: Bearer $ALIST_TOKEN"
+  - name: HF.SFUN CHAT2API
+    url: $HF_SFUN_CHAT2API
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
-  - name: ALIST SERVER
-    url: $ALIST_SITE
-    headers:
-      - "Authorization: Bearer $ALIST_TOKEN"
+  - name: HF.SMGC CHAT2API
+    url: $HF_SMGC_CHAT2API
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
-  - name: EMBY KEEPER
-    url: $EMBYKEEPER
-    headers:
-      - "Authorization: Bearer $ALIST_TOKEN"
+  - name: HF.SFUN DUCK2API
+    url: $HF_SFUN_DUCK2API
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
-  - name: WEWE RSS
-    url: $WEWE_RSS_SITE
-    expectedStatusCodes:
-      - 200
-    maxResponseTime: 5000
-  - name: ARKOSE SOLVER
-    url: $RENDER_ARKOSE
-    expectedStatusCodes:
-      - 200
-    maxResponseTime: 5000
-  - name: ONEAPI SITE
-    url: $ONEAPI_SITE
-    expectedStatusCodes:
-      - 200
-    maxResponseTime: 5000
-  - name: HF.SFUN ONEAPI SITE 
-    url: $HF_SFUN_ONEAPI_SITE
-    expectedStatusCodes:
-      - 200
-    maxResponseTime: 5000
-  - name: HF.SMGC ONEAPI SITE 
-    url: $HF_SMGC_ONEAPI_SITE
+  - name: HF.SMGC DUCK2API
+    url: $HF_SMGC_DUCK2API
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
@@ -88,30 +126,8 @@ sites:
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
-  - name: HF.SFUN CHAT2API
-    url: $HF_SFUN_CHAT2API
-    __dangerous__body_down_if_text_missing: 'Gateway is disabled'
-    expectedStatusCodes:
-      - 404
-    maxResponseTime: 5000
-  - name: HF.SMGC CHAT2API
-    url: $HF_SMGC_CHAT2API
-    __dangerous__body_down_if_text_missing: 'Gateway is disabled'
-    expectedStatusCodes:
-      - 404
-    maxResponseTime: 5000
   - name: HF.SFUN CLAUDE2API
     url: $HF_SFUN_CLAUDE2API
-    expectedStatusCodes:
-      - 200
-    maxResponseTime: 5000
-  - name: HF.SFUN DUCK2API
-    url: $HF_SFUN_DUCK2API
-    expectedStatusCodes:
-      - 200
-    maxResponseTime: 5000
-  - name: HF.SMGC DUCK2API
-    url: $HF_SMGC_DUCK2API
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
