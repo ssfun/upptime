@@ -36,6 +36,16 @@ sites:
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
+  - name: ONE API 
+    url: $ONEAPI
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+  - name: NEW API
+    url: $NEWAPI
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
   - name: LOBECHAT
     url: $LOBECHAT
     headers:
@@ -64,16 +74,6 @@ sites:
     maxResponseTime: 5000
   - name: WEWE RSS
     url: $WEWE_RSS_SITE
-    expectedStatusCodes:
-      - 200
-    maxResponseTime: 5000
-  - name: ONE API 
-    url: $ONEAPI
-    expectedStatusCodes:
-      - 200
-    maxResponseTime: 5000
-  - name: NEW API
-    url: $NEWAPI
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
