@@ -171,18 +171,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "serv-00",
     "status": "down",
-    "uptime": "2.20%",
-    "uptimeDay": "2.20%",
-    "uptimeWeek": "2.20%",
-    "uptimeMonth": "2.20%",
-    "uptimeYear": "2.20%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-10": 0
+      "2024-08-10": 1
     }
   },
   {
