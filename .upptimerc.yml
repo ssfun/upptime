@@ -15,6 +15,11 @@ sites:
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
+  - name: API SITE
+    url: $APISITE
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
   - name: GLANCE PAGE
     url: $GLANCE
     headers:
