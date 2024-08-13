@@ -1,7 +1,7 @@
 url: $EMBYKEEPER
-status: up
-code: 200
-responseTime: 374
-lastUpdated: 2024-08-12T23:14:55.258Z
+status: down
+code: 502
+responseTime: 164
+lastUpdated: 2024-08-13T14:52:10.032Z
 startTime: 2024-07-20T11:28:36.475Z
 generator: Upptime <https://github.com/upptime/upptime>
