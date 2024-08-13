@@ -1,7 +1,7 @@
 url: $BLOG
-status: up
-code: 200
-responseTime: 482
-lastUpdated: 2024-08-12T23:14:48.594Z
+status: degraded
+code: 404
+responseTime: 10173
+lastUpdated: 2024-08-13T14:46:33.588Z
 startTime: 2024-04-23T23:57:53.705Z
 generator: Upptime <https://github.com/upptime/upptime>
