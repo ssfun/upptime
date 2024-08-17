@@ -134,6 +134,11 @@ sites:
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
+  - name: HF.SMGC CLAUDE2API
+    url: $HF_SMGC_CLAUDE2API
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
   - name: RENDER ONEHUB
     url: $RENDER_ONEHUB
     expectedStatusCodes:
