@@ -1,7 +1,7 @@
 url: $ONEHUB
-status: up
-code: 200
-responseTime: 84
-lastUpdated: 2024-08-17T08:06:41.648Z
+status: down
+code: 404
+responseTime: 311
+lastUpdated: 2024-08-17T13:31:48.357Z
 startTime: 2024-08-09T08:49:43.329Z
 generator: Upptime <https://github.com/upptime/upptime>
