@@ -17,6 +17,8 @@ sites:
     maxResponseTime: 5000
   - name: API SITE
     url: $APISITE
+    headers:
+      - "Authorization: Bearer $HF_TOKEN"
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
@@ -36,8 +38,6 @@ sites:
     maxResponseTime: 5000
   - name: ONE HUB
     url: $ONEHUB
-    headers:
-      - "Authorization: Bearer $HF_TOKEN"
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
@@ -48,8 +48,6 @@ sites:
     maxResponseTime: 5000
   - name: NEW API
     url: $NEWAPI
-    headers:
-      - "Authorization: Bearer $HF_SMGC"
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
@@ -101,13 +99,6 @@ sites:
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
-  - name: HF.SMGC RAYCAST
-    url: $HF_SMGC_RAYCAST
-    headers:
-      - "Authorization: Bearer $RAYCAST_TOKEN"
-    expectedStatusCodes:
-      - 200
-    maxResponseTime: 5000
   - name: HF.SFUN CHAT2API
     url: $HF_SFUN_CHAT2API
     expectedStatusCodes:
@@ -140,6 +131,11 @@ sites:
     maxResponseTime: 5000
   - name: HF.SFUN CLAUDE2API
     url: $HF_SFUN_CLAUDE2API
+    expectedStatusCodes:
+      - 200
+    maxResponseTime: 5000
+  - name: RENDER ONEHUB
+    url: $RENDER_ONEHUB
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
