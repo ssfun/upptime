@@ -48,6 +48,8 @@ sites:
     maxResponseTime: 5000
   - name: NEW API
     url: $NEWAPI
+    headers:
+      - "Authorization: Bearer $HF_SMGC"
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
