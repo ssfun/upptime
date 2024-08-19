@@ -1,7 +1,7 @@
 url: $HF_SFUN_HFCHAT2API
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-19T11:41:45.480Z
+status: up
+code: 200
+responseTime: 184
+lastUpdated: 2024-08-19T11:57:17.614Z
 startTime: 2024-05-25T15:02:07.853Z
 generator: Upptime <https://github.com/upptime/upptime>
