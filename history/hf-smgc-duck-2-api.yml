@@ -1,7 +1,7 @@
 url: $HF_SMGC_DUCK2API
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-20T20:33:49.121Z
+status: up
+code: 200
+responseTime: 307
+lastUpdated: 2024-08-20T20:41:52.087Z
 startTime: 2024-05-25T15:02:14.366Z
 generator: Upptime <https://github.com/upptime/upptime>
