@@ -1,7 +1,7 @@
 url: $HF_SMGC_CLAUDE2API
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-20T16:54:09.913Z
+status: up
+code: 200
+responseTime: 338
+lastUpdated: 2024-08-20T17:08:28.934Z
 startTime: 2024-08-17T13:39:53.386Z
 generator: Upptime <https://github.com/upptime/upptime>
