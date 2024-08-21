@@ -1,7 +1,7 @@
 url: $HF_SFUN_CLAUDE2API
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-08-21T15:52:26.823Z
+status: up
+code: 200
+responseTime: 180
+lastUpdated: 2024-08-21T16:00:03.331Z
 startTime: 2024-07-21T15:16:08.277Z
 generator: Upptime <https://github.com/upptime/upptime>
