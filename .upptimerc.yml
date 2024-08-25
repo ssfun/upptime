@@ -99,46 +99,46 @@ sites:
     expectedStatusCodes:
       - 200
     maxResponseTime: 5000
-  - name: HF.SFUN CHAT2API
-    url: $HF_SFUN_CHAT2API
-    expectedStatusCodes:
-      - 200
-    maxResponseTime: 5000
-  - name: HF.SMGC CHAT2API
-    url: $HF_SMGC_CHAT2API
-    expectedStatusCodes:
-      - 200
-    maxResponseTime: 5000
-  - name: HF.SFUN DUCK2API
-    url: $HF_SFUN_DUCK2API
-    expectedStatusCodes:
-      - 200
-    maxResponseTime: 5000
-  - name: HF.SMGC DUCK2API
-    url: $HF_SMGC_DUCK2API
-    expectedStatusCodes:
-      - 200
-    maxResponseTime: 5000
-  - name: HF.SFUN HFCHAT2API
-    url: $HF_SFUN_HFCHAT2API
-    expectedStatusCodes:
-      - 200
-    maxResponseTime: 5000
-  - name: HF.SMGC HFCHAT2API
-    url: $HF_SMGC_HFCHAT2API
-    expectedStatusCodes:
-      - 200
-    maxResponseTime: 5000
-  - name: HF.SFUN CLAUDE2API
-    url: $HF_SFUN_CLAUDE2API
-    expectedStatusCodes:
-      - 200
-    maxResponseTime: 5000
-  - name: HF.SMGC CLAUDE2API
-    url: $HF_SMGC_CLAUDE2API
-    expectedStatusCodes:
-      - 200
-    maxResponseTime: 5000
+#  - name: HF.SFUN CHAT2API
+#    url: $HF_SFUN_CHAT2API
+#    expectedStatusCodes:
+#      - 200
+#    maxResponseTime: 5000
+#  - name: HF.SMGC CHAT2API
+#    url: $HF_SMGC_CHAT2API
+#    expectedStatusCodes:
+#      - 200
+#    maxResponseTime: 5000
+#  - name: HF.SFUN DUCK2API
+#    url: $HF_SFUN_DUCK2API
+#    expectedStatusCodes:
+#      - 200
+#    maxResponseTime: 5000
+#  - name: HF.SMGC DUCK2API
+#    url: $HF_SMGC_DUCK2API
+#    expectedStatusCodes:
+#      - 200
+#    maxResponseTime: 5000
+#  - name: HF.SFUN HFCHAT2API
+#    url: $HF_SFUN_HFCHAT2API
+#    expectedStatusCodes:
+#      - 200
+#    maxResponseTime: 5000
+#  - name: HF.SMGC HFCHAT2API
+#    url: $HF_SMGC_HFCHAT2API
+#    expectedStatusCodes:
+#      - 200
+#    maxResponseTime: 5000
+#  - name: HF.SFUN CLAUDE2API
+#    url: $HF_SFUN_CLAUDE2API
+#    expectedStatusCodes:
+#      - 200
+#    maxResponseTime: 5000
+#  - name: HF.SMGC CLAUDE2API
+#    url: $HF_SMGC_CLAUDE2API
+#    expectedStatusCodes:
+#      - 200
+#    maxResponseTime: 5000
   - name: RENDER ONEHUB
     url: $RENDER_ONEHUB
     expectedStatusCodes:
