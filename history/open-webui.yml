@@ -1,7 +1,7 @@
 url: $OPEN_WEBUI
-status: up
-code: 200
-responseTime: 340
-lastUpdated: 2024-08-28T23:14:59.717Z
+status: degraded
+code: 404
+responseTime: 10119
+lastUpdated: 2024-08-29T08:27:53.082Z
 startTime: 2024-07-31T12:25:42.649Z
 generator: Upptime <https://github.com/upptime/upptime>
