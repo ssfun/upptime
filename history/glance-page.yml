@@ -1,7 +1,7 @@
 url: $GLANCE
-status: degraded
-code: 404
-responseTime: 10148
-lastUpdated: 2024-08-29T08:24:28.787Z
+status: up
+code: 200
+responseTime: 382
+lastUpdated: 2024-08-29T08:37:10.505Z
 startTime: 2024-08-09T08:49:42.015Z
 generator: Upptime <https://github.com/upptime/upptime>
