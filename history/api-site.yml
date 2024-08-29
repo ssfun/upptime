@@ -1,7 +1,7 @@
 url: $APISITE
-status: degraded
+status: up
 code: 200
-responseTime: 18542
-lastUpdated: 2024-08-29T08:23:36.894Z
+responseTime: 337
+lastUpdated: 2024-08-29T08:37:08.245Z
 startTime: 2024-08-12T03:49:39.046Z
 generator: Upptime <https://github.com/upptime/upptime>
