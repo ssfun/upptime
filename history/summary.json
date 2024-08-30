@@ -13,7 +13,7 @@
     "time": 308,
     "timeDay": 172,
     "timeWeek": 304,
-    "timeMonth": 544,
+    "timeMonth": 549,
     "timeYear": 308,
     "dailyMinutesDown": {
       "2024-08-13": 22
@@ -33,7 +33,7 @@
     "time": 252,
     "timeDay": 224,
     "timeWeek": 273,
-    "timeMonth": 267,
+    "timeMonth": 266,
     "timeYear": 252,
     "dailyMinutesDown": {
       "2024-07-25": 20,
@@ -230,7 +230,7 @@
     "time": 259,
     "timeDay": 151,
     "timeWeek": 298,
-    "timeMonth": 255,
+    "timeMonth": 256,
     "timeYear": 259,
     "dailyMinutesDown": {
       "2024-08-02": 33,
@@ -257,7 +257,7 @@
     "time": 225,
     "timeDay": 185,
     "timeWeek": 189,
-    "timeMonth": 211,
+    "timeMonth": 210,
     "timeYear": 225,
     "dailyMinutesDown": {
       "2024-08-28": 40,
@@ -321,7 +321,7 @@
     "time": 300,
     "timeDay": 146,
     "timeWeek": 229,
-    "timeMonth": 463,
+    "timeMonth": 471,
     "timeYear": 300,
     "dailyMinutesDown": {
       "2024-06-09": 46,
@@ -343,7 +343,7 @@
     "time": 656,
     "timeDay": 502,
     "timeWeek": 541,
-    "timeMonth": 528,
+    "timeMonth": 529,
     "timeYear": 656,
     "dailyMinutesDown": {
       "2024-08-30": 89,
@@ -386,19 +386,19 @@
     "url": "$HF_SFUN_RAYCAST",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hf-sfun-raycast",
-    "status": "down",
-    "uptime": "96.83%",
-    "uptimeDay": "58.94%",
-    "uptimeWeek": "65.18%",
-    "uptimeMonth": "91.99%",
-    "uptimeYear": "96.83%",
+    "status": "up",
+    "uptime": "96.81%",
+    "uptimeDay": "57.78%",
+    "uptimeWeek": "65.02%",
+    "uptimeMonth": "91.95%",
+    "uptimeYear": "96.81%",
     "time": 301,
-    "timeDay": 223,
-    "timeWeek": 241,
+    "timeDay": 230,
+    "timeWeek": 242,
     "timeMonth": 267,
     "timeYear": 301,
     "dailyMinutesDown": {
-      "2024-08-30": 590,
+      "2024-08-30": 607,
       "2024-08-29": 637,
       "2024-08-28": 666,
       "2024-08-27": 626,
@@ -411,9 +411,9 @@
     "url": "$RENDER_ONEHUB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "render-onehub",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -422,7 +422,9 @@
     "timeWeek": 770,
     "timeMonth": 497,
     "timeYear": 497,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-30": 0
+    }
   },
   {
     "name": "RENDER DUCK2API",
@@ -499,7 +501,7 @@
     "time": 456,
     "timeDay": 217,
     "timeWeek": 300,
-    "timeMonth": 275,
+    "timeMonth": 276,
     "timeYear": 456,
     "dailyMinutesDown": {
       "2024-08-28": 20,
