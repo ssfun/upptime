@@ -1,7 +1,7 @@
 url: $RENDER_ARKOSE
-status: down
+status: degraded
 code: 500
-responseTime: 1782
-lastUpdated: 2024-09-02T10:43:27.845Z
+responseTime: 24015
+lastUpdated: 2024-09-02T11:16:52.673Z
 startTime: 2024-06-25T01:17:19.702Z
 generator: Upptime <https://github.com/upptime/upptime>
