@@ -391,25 +391,25 @@
     "url": "$HF_SFUN_RAYCAST",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hf-sfun-raycast",
-    "status": "up",
-    "uptime": "96.58%",
-    "uptimeDay": "61.86%",
-    "uptimeWeek": "60.15%",
-    "uptimeMonth": "90.83%",
-    "uptimeYear": "96.58%",
+    "status": "down",
+    "uptime": "96.59%",
+    "uptimeDay": "61.81%",
+    "uptimeWeek": "60.30%",
+    "uptimeMonth": "90.87%",
+    "uptimeYear": "96.59%",
     "time": 291,
     "timeDay": 264,
     "timeWeek": 250,
     "timeMonth": 243,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2024-09-04": 330,
+      "2024-09-04": 331,
       "2024-09-03": 674,
       "2024-09-02": 650,
       "2024-09-01": 683,
       "2024-08-31": 697,
       "2024-08-30": 608,
-      "2024-08-29": 369
+      "2024-08-29": 353
     }
   },
   {
