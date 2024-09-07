@@ -13,7 +13,7 @@
     "time": 303,
     "timeDay": 179,
     "timeWeek": 215,
-    "timeMonth": 539,
+    "timeMonth": 548,
     "timeYear": 303,
     "dailyMinutesDown": {
       "2024-08-13": 22
@@ -33,7 +33,7 @@
     "time": 249,
     "timeDay": 189,
     "timeWeek": 204,
-    "timeMonth": 246,
+    "timeMonth": 251,
     "timeYear": 249,
     "dailyMinutesDown": {
       "2024-07-25": 20,
@@ -192,7 +192,7 @@
     "time": 652,
     "timeDay": 197,
     "timeWeek": 173,
-    "timeMonth": 513,
+    "timeMonth": 523,
     "timeYear": 652,
     "dailyMinutesDown": {}
   },
@@ -230,7 +230,7 @@
     "time": 251,
     "timeDay": 129,
     "timeWeek": 165,
-    "timeMonth": 228,
+    "timeMonth": 231,
     "timeYear": 251,
     "dailyMinutesDown": {
       "2024-08-02": 33,
@@ -323,7 +323,7 @@
     "time": 291,
     "timeDay": 135,
     "timeWeek": 150,
-    "timeMonth": 186,
+    "timeMonth": 189,
     "timeYear": 291,
     "dailyMinutesDown": {
       "2024-06-09": 46,
@@ -345,7 +345,7 @@
     "time": 818,
     "timeDay": 481,
     "timeWeek": 2435,
-    "timeMonth": 962,
+    "timeMonth": 966,
     "timeYear": 818,
     "dailyMinutesDown": {
       "2024-09-06": 19,
@@ -393,14 +393,14 @@
     "url": "$HF_SFUN_RAYCAST",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hf-sfun-raycast",
-    "status": "up",
-    "uptime": "96.81%",
-    "uptimeDay": "56.99%",
-    "uptimeWeek": "61.52%",
-    "uptimeMonth": "91.14%",
-    "uptimeYear": "96.81%",
+    "status": "down",
+    "uptime": "96.83%",
+    "uptimeDay": "58.25%",
+    "uptimeWeek": "61.72%",
+    "uptimeMonth": "91.19%",
+    "uptimeYear": "96.83%",
     "time": 283,
-    "timeDay": 239,
+    "timeDay": 227,
     "timeWeek": 244,
     "timeMonth": 241,
     "timeYear": 283,
@@ -411,7 +411,7 @@
       "2024-09-04": 508,
       "2024-09-03": 674,
       "2024-09-02": 650,
-      "2024-09-01": 502
+      "2024-09-01": 481
     }
   },
   {
@@ -515,7 +515,7 @@
     "time": 445,
     "timeDay": 161,
     "timeWeek": 259,
-    "timeMonth": 274,
+    "timeMonth": 276,
     "timeYear": 445,
     "dailyMinutesDown": {
       "2024-08-28": 20,
