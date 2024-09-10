@@ -256,9 +256,9 @@
     "slug": "plex-sync",
     "status": "up",
     "uptime": "98.97%",
-    "uptimeDay": "97.68%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "98.87%",
+    "uptimeDay": "98.15%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "98.88%",
     "uptimeYear": "98.97%",
     "time": 228,
     "timeDay": 221,
@@ -266,7 +266,6 @@
     "timeMonth": 215,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2024-09-10": 7,
       "2024-09-09": 43,
       "2024-09-05": 20,
       "2024-09-02": 153,
@@ -403,15 +402,15 @@
     "url": "$HF_SFUN_RAYCAST",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hf-sfun-raycast",
-    "status": "up",
-    "uptime": "97.20%",
-    "uptimeDay": "62.46%",
-    "uptimeWeek": "64.94%",
-    "uptimeMonth": "91.93%",
-    "uptimeYear": "97.20%",
+    "status": "down",
+    "uptime": "97.21%",
+    "uptimeDay": "62.53%",
+    "uptimeWeek": "65.11%",
+    "uptimeMonth": "91.97%",
+    "uptimeYear": "97.21%",
     "time": 278,
-    "timeDay": 272,
-    "timeWeek": 239,
+    "timeDay": 265,
+    "timeWeek": 238,
     "timeMonth": 241,
     "timeYear": 278,
     "dailyMinutesDown": {
@@ -421,7 +420,7 @@
       "2024-09-07": 591,
       "2024-09-06": 497,
       "2024-09-05": 649,
-      "2024-09-04": 59
+      "2024-09-04": 41
     }
   },
   {
