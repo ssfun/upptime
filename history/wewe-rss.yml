@@ -1,7 +1,7 @@
 url: $WEWE_RSS_SITE
-status: up
-code: 200
-responseTime: 306
-lastUpdated: 2024-09-09T23:16:14.243Z
+status: down
+code: 502
+responseTime: 1096
+lastUpdated: 2024-09-10T15:06:36.159Z
 startTime: 2024-05-26T10:29:11.093Z
 generator: Upptime <https://github.com/upptime/upptime>
