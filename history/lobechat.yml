@@ -1,7 +1,7 @@
 url: $LOBECHAT
-status: up
-code: 200
-responseTime: 186
-lastUpdated: 2024-09-20T23:14:33.440Z
+status: degraded
+code: 504
+responseTime: 10069
+lastUpdated: 2024-09-22T21:48:56.244Z
 startTime: 2024-08-09T08:49:43.727Z
 generator: Upptime <https://github.com/upptime/upptime>
