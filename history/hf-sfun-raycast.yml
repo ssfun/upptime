@@ -1,7 +1,7 @@
 url: $HF_SFUN_RAYCAST
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-22T23:50:11.195Z
+status: degraded
+code: 504
+responseTime: 10073
+lastUpdated: 2024-09-22T23:58:36.022Z
 startTime: 2024-06-15T03:23:17.781Z
 generator: Upptime <https://github.com/upptime/upptime>
