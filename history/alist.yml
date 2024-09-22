@@ -1,7 +1,7 @@
 url: $ALIST
-status: up
-code: 200
-responseTime: 285
-lastUpdated: 2024-09-20T23:14:32.287Z
+status: down
+code: 502
+responseTime: 44
+lastUpdated: 2024-09-22T21:46:50.656Z
 startTime: 2024-08-09T08:49:42.727Z
 generator: Upptime <https://github.com/upptime/upptime>
