@@ -1,7 +1,7 @@
 url: $ONEAPI
-status: down
-code: 502
-responseTime: 182
-lastUpdated: 2024-09-22T21:55:47.882Z
+status: degraded
+code: 504
+responseTime: 10081
+lastUpdated: 2024-09-22T22:09:54.853Z
 startTime: 2024-08-09T08:49:45.638Z
 generator: Upptime <https://github.com/upptime/upptime>
