@@ -1,7 +1,7 @@
 url: $ONEHUB
-status: degraded
-code: 504
-responseTime: 10138
-lastUpdated: 2024-09-23T00:39:32.622Z
+status: up
+code: 200
+responseTime: 318
+lastUpdated: 2024-09-23T05:36:57.786Z
 startTime: 2024-08-09T08:49:43.329Z
 generator: Upptime <https://github.com/upptime/upptime>
