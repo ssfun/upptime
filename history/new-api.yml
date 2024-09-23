@@ -1,7 +1,7 @@
 url: $NEWAPI
-status: degraded
-code: 504
-responseTime: 10073
-lastUpdated: 2024-09-23T04:36:14.891Z
+status: down
+code: 502
+responseTime: 142
+lastUpdated: 2024-09-23T05:24:54.568Z
 startTime: 2024-08-09T08:49:46.030Z
 generator: Upptime <https://github.com/upptime/upptime>
