@@ -1,7 +1,7 @@
 url: $KOYEB_DUCK2API
-status: degraded
-code: 503
-responseTime: 5218
-lastUpdated: 2024-10-07T11:35:00.461Z
+status: up
+code: 200
+responseTime: 145
+lastUpdated: 2024-10-07T11:42:35.238Z
 startTime: 2024-05-25T15:02:15.259Z
 generator: Upptime <https://github.com/upptime/upptime>
