@@ -1,7 +1,7 @@
 url: $RENDER_DUCK2API
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-10-09T05:16:14.423Z
+status: up
+code: 200
+responseTime: 276
+lastUpdated: 2024-10-09T05:34:20.284Z
 startTime: 2024-05-25T15:02:14.761Z
 generator: Upptime <https://github.com/upptime/upptime>
