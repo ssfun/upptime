@@ -392,17 +392,16 @@
     "slug": "arkose-solver",
     "status": "up",
     "uptime": "98.25%",
-    "uptimeDay": "95.18%",
-    "uptimeWeek": "95.53%",
-    "uptimeMonth": "96.65%",
+    "uptimeDay": "96.05%",
+    "uptimeWeek": "95.66%",
+    "uptimeMonth": "96.68%",
     "uptimeYear": "98.25%",
     "time": 753,
     "timeDay": 534,
-    "timeWeek": 489,
+    "timeWeek": 490,
     "timeMonth": 643,
     "timeYear": 753,
     "dailyMinutesDown": {
-      "2024-10-13": 13,
       "2024-10-12": 57,
       "2024-10-11": 126,
       "2024-10-10": 84,
@@ -457,7 +456,7 @@
       "2024-07-19": 40,
       "2024-07-17": 71,
       "2024-07-15": 148,
-      "2024-07-14": 42
+      "2024-07-14": 60
     }
   },
   {
@@ -465,15 +464,15 @@
     "url": "$HF_SFUN_RAYCAST",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "hf-sfun-raycast",
-    "status": "up",
-    "uptime": "97.51%",
-    "uptimeDay": "55.22%",
-    "uptimeWeek": "57.25%",
-    "uptimeMonth": "90.16%",
-    "uptimeYear": "97.51%",
+    "status": "down",
+    "uptime": "97.52%",
+    "uptimeDay": "57.35%",
+    "uptimeWeek": "57.41%",
+    "uptimeMonth": "90.20%",
+    "uptimeYear": "97.52%",
     "time": 296,
-    "timeDay": 248,
-    "timeWeek": 244,
+    "timeDay": 254,
+    "timeWeek": 245,
     "timeMonth": 318,
     "timeYear": 296,
     "dailyMinutesDown": {
@@ -483,7 +482,7 @@
       "2024-10-10": 693,
       "2024-10-09": 801,
       "2024-10-08": 560,
-      "2024-10-07": 482
+      "2024-10-07": 466
     }
   },
   {
