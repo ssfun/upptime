@@ -1,7 +1,7 @@
 url: $ALIST
-status: degraded
+status: up
 code: 200
-responseTime: 11881
-lastUpdated: 2024-10-14T16:53:27.096Z
+responseTime: 350
+lastUpdated: 2024-10-14T16:57:26.829Z
 startTime: 2024-08-09T08:49:42.727Z
 generator: Upptime <https://github.com/upptime/upptime>
