@@ -283,11 +283,11 @@
     "url": "$PLEXSYNC_SITE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "plex-sync",
-    "status": "up",
+    "status": "down",
     "uptime": "98.84%",
-    "uptimeDay": "98.84%",
-    "uptimeWeek": "97.72%",
-    "uptimeMonth": "97.50%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "97.69%",
+    "uptimeMonth": "97.49%",
     "uptimeYear": "98.84%",
     "time": 241,
     "timeDay": 133,
@@ -295,7 +295,7 @@
     "timeMonth": 242,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2024-10-23": 17,
+      "2024-10-23": 21,
       "2024-10-22": 48,
       "2024-10-21": 19,
       "2024-10-20": 33,
@@ -360,8 +360,7 @@
       "2024-07-11": 90,
       "2024-07-10": 26,
       "2024-07-08": 15,
-      "2024-07-05": 16,
-      "2024-07-03": 16
+      "2024-07-05": 16
     }
   },
   {
@@ -393,19 +392,19 @@
     "url": "$RENDER_ARKOSE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "arkose-solver",
-    "status": "up",
-    "uptime": "98.39%",
-    "uptimeDay": "96.30%",
-    "uptimeWeek": "95.73%",
+    "status": "down",
+    "uptime": "98.40%",
+    "uptimeDay": "96.15%",
+    "uptimeWeek": "95.72%",
     "uptimeMonth": "96.30%",
-    "uptimeYear": "98.39%",
+    "uptimeYear": "98.40%",
     "time": 734,
     "timeDay": 539,
     "timeWeek": 575,
     "timeMonth": 618,
     "timeYear": 734,
     "dailyMinutesDown": {
-      "2024-10-23": 37,
+      "2024-10-23": 39,
       "2024-10-22": 58,
       "2024-10-21": 35,
       "2024-10-20": 125,
@@ -456,7 +455,7 @@
       "2024-08-19": 19,
       "2024-08-17": 28,
       "2024-08-12": 16,
-      "2024-08-05": 35
+      "2024-08-05": 16
     }
   },
   {
@@ -471,7 +470,7 @@
     "uptimeMonth": "90.87%",
     "uptimeYear": "97.87%",
     "time": 288,
-    "timeDay": 206,
+    "timeDay": 211,
     "timeWeek": 234,
     "timeMonth": 240,
     "timeYear": 288,
@@ -522,12 +521,12 @@
     "url": "$RENDER_DUCK2API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "render-duck-2-api",
-    "status": "up",
-    "uptime": "97.64%",
-    "uptimeDay": "94.56%",
-    "uptimeWeek": "92.09%",
+    "status": "down",
+    "uptime": "97.65%",
+    "uptimeDay": "94.53%",
+    "uptimeWeek": "92.08%",
     "uptimeMonth": "96.19%",
-    "uptimeYear": "97.64%",
+    "uptimeYear": "97.65%",
     "time": 319,
     "timeDay": 150,
     "timeWeek": 886,
@@ -595,8 +594,7 @@
       "2024-07-26": 61,
       "2024-07-25": 61,
       "2024-07-23": 34,
-      "2024-07-22": 20,
-      "2024-07-21": 22
+      "2024-07-22": 20
     }
   },
   {
